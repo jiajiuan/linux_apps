@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T01:16:17.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="13.10.0" etag="QgQeuusKP_7TiuAOvQKX" type="github"><diagram id="BM0VdIxClnjOrW8msyrw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-26T01:54:12.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="EOEDjOJSUtdFib2cUBOB" version="13.10.0" type="github">
+  <diagram id="BM0VdIxClnjOrW8msyrw" name="Page-1">
+    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BNXIbk2GmkNosNhbAgGf-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BNXIbk2GmkNosNhbAgGf-1" target="BNXIbk2GmkNosNhbAgGf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNXIbk2GmkNosNhbAgGf-1" value="MT6330 GNSS module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="630" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BNXIbk2GmkNosNhbAgGf-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BNXIbk2GmkNosNhbAgGf-2" target="BNXIbk2GmkNosNhbAgGf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNXIbk2GmkNosNhbAgGf-2" value="MTK LibGNSS (binary codes)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="540" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BNXIbk2GmkNosNhbAgGf-4" value="SDIO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="610" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BNXIbk2GmkNosNhbAgGf-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BNXIbk2GmkNosNhbAgGf-5" target="BNXIbk2GmkNosNhbAgGf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNXIbk2GmkNosNhbAgGf-5" value="MTK MNLD (w/ source code)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="450" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BNXIbk2GmkNosNhbAgGf-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BNXIbk2GmkNosNhbAgGf-7" target="BNXIbk2GmkNosNhbAgGf-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNXIbk2GmkNosNhbAgGf-7" value="MTK GNSS HAL (w/source codes)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="360" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BNXIbk2GmkNosNhbAgGf-8" value="function call" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="510" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BNXIbk2GmkNosNhbAgGf-10" value="socket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="423" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BNXIbk2GmkNosNhbAgGf-11" value="Customizing GNSS App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="270" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BNXIbk2GmkNosNhbAgGf-13" value="socket and call back function register" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="340" width="180" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
