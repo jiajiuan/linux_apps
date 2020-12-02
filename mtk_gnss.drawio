@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T05:31:57.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="YDVx2FQ34SeXshH_12V4" version="13.10.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T02:22:18.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="KAQ3Fw8UPk4CUatEXoMg" version="13.10.4" type="github">
   <diagram id="BM0VdIxClnjOrW8msyrw" name="Page-1">
     <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RhEErcN1Zr_JtdYH_1c0-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#D6FFFF;" parent="1" vertex="1">
+          <mxGeometry x="680" y="260" width="390" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="BNXIbk2GmkNosNhbAgGf-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BNXIbk2GmkNosNhbAgGf-1" target="BNXIbk2GmkNosNhbAgGf-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -28,8 +31,13 @@
         <mxCell id="BNXIbk2GmkNosNhbAgGf-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BNXIbk2GmkNosNhbAgGf-7" target="BNXIbk2GmkNosNhbAgGf-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RhEErcN1Zr_JtdYH_1c0-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BNXIbk2GmkNosNhbAgGf-7" target="RhEErcN1Zr_JtdYH_1c0-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="RhEErcN1Zr_JtdYH_1c0-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="BNXIbk2GmkNosNhbAgGf-7" target="tbErRjKlFo56-OwI-SrA-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="985" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="985" y="390" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="BNXIbk2GmkNosNhbAgGf-7" value="MTK GNSS HAL (w/source codes)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="255" y="360" width="340" height="60" as="geometry" />
@@ -46,17 +54,29 @@
         <mxCell id="BNXIbk2GmkNosNhbAgGf-13" value="init and call back function register" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="340" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RhEErcN1Zr_JtdYH_1c0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RhEErcN1Zr_JtdYH_1c0-2" target="BNXIbk2GmkNosNhbAgGf-11">
+        <mxCell id="RhEErcN1Zr_JtdYH_1c0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" source="tbErRjKlFo56-OwI-SrA-2" target="BNXIbk2GmkNosNhbAgGf-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RhEErcN1Zr_JtdYH_1c0-2" value="WNC GNSS Library and Test Client" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="680" y="270" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RhEErcN1Zr_JtdYH_1c0-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;init and call back function register&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RhEErcN1Zr_JtdYH_1c0-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;init and call back function register&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="360" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RhEErcN1Zr_JtdYH_1c0-6" value="PZ90 conversion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RhEErcN1Zr_JtdYH_1c0-6" value="PZ90 conversion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="595" y="270" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tbErRjKlFo56-OwI-SrA-1" value="WNC Test Client" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="920" y="275" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tbErRjKlFo56-OwI-SrA-2" value="WNC GNSS Lib" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="700" y="275" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tbErRjKlFo56-OwI-SrA-3" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="tbErRjKlFo56-OwI-SrA-2" target="tbErRjKlFo56-OwI-SrA-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="350" as="sourcePoint" />
+            <mxPoint x="910" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tbErRjKlFo56-OwI-SrA-4" value="UNIT Test" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="275" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
