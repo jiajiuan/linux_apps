@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T02:22:18.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="KAQ3Fw8UPk4CUatEXoMg" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T01:50:35.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="jiWFKqxeeb_hXh3_9pc5" version="14.0.3" type="github">
   <diagram id="BM0VdIxClnjOrW8msyrw" name="Page-1">
-    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,6 +14,9 @@
           <mxGeometry x="255" y="630" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BNXIbk2GmkNosNhbAgGf-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BNXIbk2GmkNosNhbAgGf-2" target="BNXIbk2GmkNosNhbAgGf-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSqLechn9mpoOCkpXFm6-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#990000;strokeWidth=3;" edge="1" parent="1" source="BNXIbk2GmkNosNhbAgGf-2" target="oSqLechn9mpoOCkpXFm6-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BNXIbk2GmkNosNhbAgGf-2" value="MTK LibGNSS (binary codes)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -63,20 +66,46 @@
         <mxCell id="RhEErcN1Zr_JtdYH_1c0-6" value="PZ90 conversion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="595" y="270" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tbErRjKlFo56-OwI-SrA-1" value="WNC Test Client" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="tbErRjKlFo56-OwI-SrA-1" value="WNC Test Client" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="920" y="275" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tbErRjKlFo56-OwI-SrA-2" value="WNC GNSS Lib" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="tbErRjKlFo56-OwI-SrA-2" value="WNC GNSS Lib" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="700" y="275" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tbErRjKlFo56-OwI-SrA-3" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="tbErRjKlFo56-OwI-SrA-2" target="tbErRjKlFo56-OwI-SrA-1">
+        <mxCell id="tbErRjKlFo56-OwI-SrA-3" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" source="tbErRjKlFo56-OwI-SrA-2" target="tbErRjKlFo56-OwI-SrA-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="860" y="350" as="sourcePoint" />
             <mxPoint x="910" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tbErRjKlFo56-OwI-SrA-4" value="UNIT Test" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tbErRjKlFo56-OwI-SrA-4" value="UNIT Test" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="840" y="275" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oSqLechn9mpoOCkpXFm6-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#990000;strokeWidth=3;" edge="1" parent="1" source="oSqLechn9mpoOCkpXFm6-1" target="tbErRjKlFo56-OwI-SrA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSqLechn9mpoOCkpXFm6-1" value="WMM library" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="700" y="170" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oSqLechn9mpoOCkpXFm6-3" value="&lt;font style=&quot;font-size: 21px&quot; color=&quot;#990000&quot;&gt;+&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="230" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oSqLechn9mpoOCkpXFm6-4" value="NMEA Raw Data" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="670" y="545" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oSqLechn9mpoOCkpXFm6-6" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#990000&quot;&gt;&lt;b&gt;Output&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="595" y="540" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oSqLechn9mpoOCkpXFm6-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#990000;strokeWidth=3;entryX=0.667;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oSqLechn9mpoOCkpXFm6-7" target="tbErRjKlFo56-OwI-SrA-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="945" y="230" />
+              <mxPoint x="800" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oSqLechn9mpoOCkpXFm6-7" value="Re-generate NMEA Raw" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="870" y="170" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
