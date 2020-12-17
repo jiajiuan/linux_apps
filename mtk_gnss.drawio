@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T07:26:36.200Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="I1Zk4b_sgXZQkuVZ5FAJ" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T07:36:25.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="YYnkDaLt2IS39Zl3urQx" version="14.0.4" type="github">
   <diagram id="BM0VdIxClnjOrW8msyrw" name="Page-1">
-    <mxGraphModel dx="1102" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1296" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,7 +69,7 @@
         <mxCell id="tbErRjKlFo56-OwI-SrA-1" value="WNC Test Client" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="920" y="275" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tbErRjKlFo56-OwI-SrA-2" value="WNC GNSS Lib" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="tbErRjKlFo56-OwI-SrA-2" value="WNC GNSS Lib (libwgnss.so)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="700" y="275" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tbErRjKlFo56-OwI-SrA-3" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" source="tbErRjKlFo56-OwI-SrA-2" target="tbErRjKlFo56-OwI-SrA-1" edge="1">
@@ -95,17 +95,6 @@
         </mxCell>
         <mxCell id="oSqLechn9mpoOCkpXFm6-6" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#990000&quot;&gt;&lt;b&gt;Output&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="595" y="540" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oSqLechn9mpoOCkpXFm6-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#990000;strokeWidth=3;entryX=0.667;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="oSqLechn9mpoOCkpXFm6-7" target="tbErRjKlFo56-OwI-SrA-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="945" y="230" />
-              <mxPoint x="800" y="230" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oSqLechn9mpoOCkpXFm6-7" value="Re-generate NMEA Raw" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="870" y="170" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v8c8hiDWNp6avObsNg8F-1" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;&lt;b&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 14px&quot;&gt;Solution 2: modify mnld (call libwgnss.so) to re-generate NMEA Raw Data and record it.&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="630" y="440" width="380" height="55" as="geometry" />
