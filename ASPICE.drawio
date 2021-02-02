@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T07:32:19.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="2xLrrARLAmld_YqeM_5p" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T07:36:22.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="bmiRVi7OZnyqjnOEu0gv" version="14.1.2" type="github">
   <diagram id="B0glw3KKTPosglaPJZQB" name="Page-1">
     <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,6 +21,12 @@
         </mxCell>
         <mxCell id="RnbESIpB-eGyaXiBgTNY-24" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;flipV=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="RnbESIpB-eGyaXiBgTNY-25">
           <mxGeometry width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RnbESIpB-eGyaXiBgTNY-28" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0.34504361703454833;endAngle=0.040767758715138935;arcWidth=0.5;rotation=105;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RnbESIpB-eGyaXiBgTNY-29" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.obtuse_triangle;dx=0.25;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="577.87" y="110" width="40" height="25.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
