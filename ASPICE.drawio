@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T08:06:13.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="yGllK1zMdr3c74qMqGt6" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T08:19:20.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="kS5Ku0DLpiamP14mY8wG" version="14.1.2" type="github">
   <diagram id="B0glw3KKTPosglaPJZQB" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -35,13 +35,13 @@
           <mxGeometry x="230.99566192911038" y="165.4506619291104" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RnbESIpB-eGyaXiBgTNY-33" value="SWE.X" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="RnbESIpB-eGyaXiBgTNY-30">
-          <mxGeometry x="150.99566192911038" y="80.0006619291104" width="80" height="30" as="geometry" />
+          <mxGeometry x="142.99566192911038" y="73.0006619291104" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RnbESIpB-eGyaXiBgTNY-50" value="MAN.X" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="RnbESIpB-eGyaXiBgTNY-30">
-          <mxGeometry x="70.99566192911038" y="255.45066192911042" width="80" height="30" as="geometry" />
+          <mxGeometry x="69.99566192911038" y="241.00066192911044" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RnbESIpB-eGyaXiBgTNY-51" value="SUP.X" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="RnbESIpB-eGyaXiBgTNY-30">
-          <mxGeometry x="159.99566192911038" y="255.45066192911042" width="80" height="30" as="geometry" />
+          <mxGeometry x="164.99566192911038" y="240.45066192911042" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RnbESIpB-eGyaXiBgTNY-60" value="&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Standup Meeting&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RnbESIpB-eGyaXiBgTNY-30">
           <mxGeometry x="291.13566192911037" y="15.450661929110368" width="40" height="20" as="geometry" />
